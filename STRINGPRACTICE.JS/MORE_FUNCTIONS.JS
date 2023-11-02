@@ -15,19 +15,6 @@ function displayMailingLabel (name, address, city, state, zip) {
 
 
 
-// add numbers
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 displayMailingLabel ("spongebob", "123bikni bottom", "brooklyn" , "nyc" , "12345");

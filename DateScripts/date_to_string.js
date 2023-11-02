@@ -1,10 +1,12 @@
 "use strict" 
 
 // Grab the current date/time
-const currentDate = new Date();
+let d = new Date();
 
+//currentDate();
 
-console.log( currentDate.toString);
-console.log(currentDate.toDateString);
-console.log( currentDate.toUTCString);
+console.log(d.toString());
+
+// do it for the other date formats as well 
+
 
